@@ -24,7 +24,7 @@ Imetengenezwa kwa ubunifu na uwezo wa hali ya juu 🧠✨
 
 ---
 
-![Bot Image](https://raw.githubusercontent.com/Yasser-auto-responder-botV2/main/images/bot.png)
+![Bot Image]https://raw.githubusercontent.com/Yasser-auto-responder-botV2/main/images/bot.png
 ---
 
 💡 Maelekezo ya kutumia
