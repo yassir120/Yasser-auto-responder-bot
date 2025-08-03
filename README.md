@@ -1,3 +1,5 @@
+![IMG-20250727-WA1315](https://github.com/user-attachments/assets/718e9d46-06b6-42fe-9cb2-4afba41b07e5)
+![IMG-20250727-WA1320](https://github.com/user-attachments/assets/27a8868f-7a61-499c-906c-bc116fec536f)
 ```
 🤖 YASSER-AUTO-RESPONDER-BOT
 
